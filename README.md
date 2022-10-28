@@ -1,3 +1,13 @@
+## Trabalho - Grupo 2 - 28/10
+* Alexsander da Silva
+* Amanda Santos
+* Ana Carolina Correa
+* Geovanna Anjos
+* Marianna Magno
+* Rebeca Valenzuela
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
